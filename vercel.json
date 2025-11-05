@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/Metamask",
+      "destination": "https://yourblog.example.com/",
+      "permanent": false
+    }
+  ]
+}
