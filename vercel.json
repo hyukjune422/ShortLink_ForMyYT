@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/Metamask",
+      "source": "/metamask",
       "destination": "https://link.metamask.io/rewards?referral=BPDZEN",
       "permanent": false
     }
