@@ -5,5 +5,10 @@
       "destination": "https://link.metamask.io/rewards?referral=BPDZEN",
       "permanent": false
     }
+    {
+      "source": "/unich",
+      "destination": "https://token.unich.com/?affiliateCode=rasj5t",
+      "permanent": false
+    }
   ]
 }
