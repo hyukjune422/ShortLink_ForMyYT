@@ -9,6 +9,11 @@
       "source": "/unich",
       "destination": "https://token.unich.com/?affiliateCode=rasj5t",
       "permanent": false
+    },
+    {
+      "source": "/CollectorCrypt",
+      "destination": "https://gacha.collectorcrypt.com/referral/Ab5Ejk6Up1rwqxZLck4dTxBzPJsWvkwAtQ1DFhkGwJjb",
+      "permanent": false
     }
   ]
 }
