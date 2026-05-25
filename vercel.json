@@ -14,6 +14,11 @@
       "source": "/CollectorCrypt",
       "destination": "https://gacha.collectorcrypt.com/referral/Ab5Ejk6Up1rwqxZLck4dTxBzPJsWvkwAtQ1DFhkGwJjb",
       "permanent": false
+    },
+    {
+      "source": "/TheBeacon",
+      "destination": "https://app.thebeacon.gg/login?referralCode=J5ZFRWMCED",
+      "permanent": false
     }
   ]
 }
