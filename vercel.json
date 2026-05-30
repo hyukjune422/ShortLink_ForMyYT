@@ -17,7 +17,7 @@
     },
     {
       "source": "/TheBeacon",
-      "destination": "https://app.thebeacon.gg/login?referralCode=J5ZFRWMCED",
+      "destination": "https://app.thebeacon.gg/season-one?referralCode=J5ZFRWMCED",
       "permanent": false
     }
   ]
