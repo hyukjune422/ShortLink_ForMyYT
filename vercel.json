@@ -19,6 +19,11 @@
       "source": "/TheBeacon",
       "destination": "https://app.thebeacon.gg/season-one?referralCode=J5ZFRWMCED",
       "permanent": false
+    },
+    {
+      "source": "/BaseApp",
+      "destination": "https://base.app/invite/kwondollbuilder/KFYRQ9DV",
+      "permanent": false
     }
   ]
 }
