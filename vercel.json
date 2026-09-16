@@ -24,6 +24,11 @@
       "source": "/BaseApp",
       "destination": "https://base.app/invite/kwondollbuilder/KFYRQ9DV",
       "permanent": false
+    },
+    {
+      "source": "/Axis",
+      "destination": "https://hub.axisrobotics.ai/login?invite_code=tGTLkGJe",
+      "permanent": false
     }
   ]
 }
